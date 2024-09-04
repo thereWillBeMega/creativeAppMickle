@@ -28,8 +28,12 @@ class ViewController: UIViewController {
 
     @IBAction func calculateAction(_ sender: UIButton) {
         
-        grassScore = hoursOutlet.text
         
+        
+//        if(let grass = hoursOutlet.text!){
+//            
+//        }
+
     }
     
 }
